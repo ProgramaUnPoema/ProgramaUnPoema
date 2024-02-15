@@ -23,6 +23,11 @@
 <a href="https://jeanpcarrillog.github.io/"  ><img src="https://raw.githubusercontent.com/ProgramaUnPoema/ProgramaUnPoema/main/ICONOS/Como%20Me%20Veo.png"/></a>
 </h1>
 
+<h4 align="right" >Elaborado por:</h4>
+
+<h1 align="right" >
+<img src="https://raw.githubusercontent.com/ProgramaUnPoema/ProgramaUnPoema/main/ICONOS/Cobweb-Free-And-Open-Source.png"/></a>
+</h1>
 <!--
 **ProgramaUnPoema/ProgramaUnPoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
